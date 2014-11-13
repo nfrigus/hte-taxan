@@ -1,0 +1,3 @@
+app/config/database.php
+!*.htaccess
+app/cache/
